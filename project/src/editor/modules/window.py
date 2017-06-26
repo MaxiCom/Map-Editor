@@ -6,8 +6,8 @@ import sys
 TILE_WIDTH = 64
 TILE_HEIGHT = 64
 
-X_TILES = 3
-Y_TILES = 3
+X_TILES = 10
+Y_TILES = 8
 
 WHITE = (255, 255, 255)
 RED   = (255,   0,   0)
